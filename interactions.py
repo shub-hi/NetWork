@@ -1,1 +1,1 @@
-
+print("Create story, post")
